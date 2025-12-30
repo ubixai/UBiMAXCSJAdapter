@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'UBiMAXCSJAdapter'
-  s.version          = '7.3.0.0.0'
+  s.version          = '7.3.0.4.0'
   s.summary          = 'UBiX聚合Sass SDK CSJ Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
 
