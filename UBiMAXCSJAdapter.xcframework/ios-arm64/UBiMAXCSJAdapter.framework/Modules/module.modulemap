@@ -1,0 +1,6 @@
+framework module UBiMAXCSJAdapter {
+  umbrella header "UBiMAXCSJAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
