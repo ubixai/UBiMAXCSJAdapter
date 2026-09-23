@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.pod_target_xcconfig = {
     'OTHER_LINK_FLAG' => '$(inherited) -ObjC' }
 
-  s.dependency 'Ads-CN', '7.8.0.4'
+  s.dependency 'Ads-CN-Beta', '7.8.0.4'
   s.dependency 'UBiMAXAdSDK'
 
 end
